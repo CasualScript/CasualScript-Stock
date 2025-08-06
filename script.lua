@@ -1,1 +1,1 @@
-
+print("script loaded")
